@@ -1,7 +1,7 @@
 ## pump.fun clone: Solana Pumpfun Backend source code(pump.fun fork), implementing main structure for pump fun.
 
 It was for to give basic understanding about pumpfun backend workflow, main structure.
-Whole working code is private, feel free to reach out of me if you wanna get it[Whatsapp: https://wa.me/13137423660, Telegram: https://t.me/DevCutup]
+Whole working code is private, feel free to reach out of me if you wanna get it.
 Also you can access smart contract and frontend codebase also, can get it from me.
 
 ### What it contains
@@ -10,7 +10,7 @@ Also you can access smart contract and frontend codebase also, can get it from m
 - Backend API
 - DB management
 
-### Contact Information
-- Telegram: https://t.me/DevCutup
-- Whatsapp: https://wa.me/13137423660
-- Twitter: https://x.com/devcutup
+## Contact
+
+- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
+- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650) 
